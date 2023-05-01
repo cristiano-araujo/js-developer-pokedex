@@ -28,7 +28,9 @@ body {
     align-items: center;
     flex-direction: column;
     font-size: 15px;
-    color: rgb(50, 51, 50);
+    color: gray;
     padding-bottom: 5px;
     padding-top: 5px;
+    margin-bottom: 10px;
+    margin-top: 5px;
 }
